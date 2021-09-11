@@ -1,2 +1,1 @@
-# python-for-finance
- 
+# Python for Finance
